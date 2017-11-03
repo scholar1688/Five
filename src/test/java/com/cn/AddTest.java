@@ -12,7 +12,7 @@ public class AddTest {
   public Object[][] createDate()               
 	{
 		return new Object[][]{
-				{4,2,2},{2,1,3},{9,3,12}
+				{0,2,2},{2,1,3},{9,3,12}
 				};
 	}
 	
